@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.example.com/</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/itinerary.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/getting-there.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/about.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/contact.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/photo-credits.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/privacy-policy.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/cookie-policy.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://www.example.com/terms.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/montenegro-vs-albania-beaches.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/itinerary.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/albania-travel-tips.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/montenegro-travel-tips.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/budget-travel-tips.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/getting-there.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/about.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/contact.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/photo-credits.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/privacy-policy.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/cookie-policy.html</loc><lastmod>2026-10-24</lastmod></url>
+  <url><loc>https://www.thecuriousbackpack.com/terms.html</loc><lastmod>2026-10-24</lastmod></url>
 </urlset>

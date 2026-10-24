@@ -1,4 +1,4 @@
-// Adriatic Beach Duel — shared behaviour for every page
+// The Curious Backpack — shared behaviour for every page
 (function () {
   // Mobile menu
   var toggle = document.querySelector('.nav-toggle');
